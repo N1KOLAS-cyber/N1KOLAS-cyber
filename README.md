@@ -23,6 +23,5 @@ Actualmente curso el tercer cuatrimestre de Ingeniería en Software. Me apasiona
 ##  Navega por mis repositorios
 Puedes explorar libremente mis proyectos. Algunos de ellos incluyen una breve explicación en su `README.md` para que sea fácil entender el propósito y cómo ejecutarlos.
 
->Gracias por visitar mi perfil. Estoy en constante aprendizaje, así que cada proyecto es parte de mi crecimiento. Si tienes sugerencias o deseas colaborar, ¡escríbeme¡
+ *Gracias por visitar mi perfil. Estoy en constante aprendizaje, así que cada proyecto es parte de mi crecimiento. Si tienes sugerencias o deseas colaborar, ¡escríbeme¡*
 
-🔭 I’m currently working on ...

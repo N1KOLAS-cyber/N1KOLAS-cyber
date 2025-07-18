@@ -1,10 +1,5 @@
-## Hi there 👋
-
-## Hi there 👋
-
 <!--
 **N1KOLAS-cyber/N1KOLAS-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 ## 👋 ¡Hola, hola! Bienvenid@ a mi espacio en GitHub 
 
 Si has llegado hasta aquí, has encontrado una colección de **proyectos académicos y personales** que he desarrollado a lo largo de mi formación como estudiante de Ingeniería en Software.  

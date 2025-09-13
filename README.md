@@ -20,6 +20,13 @@ Actualmente curso el tercer cuatrimestre de Ingeniería en Software. Me apasiona
 - Bases de datos: PostgreSQL, Firebase
 - Herramientas: Git, Docker, IntelliJ IDEA, VS Code
 
+## Mi actividad en GitHub
+Aquí puedes ver un resumen de mis estadísticas y los lenguajes que más utilizo en mis proyectos:
+
+![my GitHub Analytics](https://github-readme-stats.vercel.app/api?username=N1KOLAS-cyber&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N1KOLAS-cyber&layout=compact&theme=radical)
+
+
 ##  Navega por mis repositorios
 Puedes explorar libremente mis proyectos. Algunos de ellos incluyen una breve explicación en su `README.md` para que sea fácil entender el propósito y cómo ejecutarlos.
 
